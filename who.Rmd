@@ -11,6 +11,7 @@ links:
 output:
   postcards::jolla
 ---
- 
-## Who we are
 
+We are currently a small group of artists who each work independently. We've teamed up to showcase our work together at [local pride festivals](events.html) and markets in the Western Mass/Southern Vermont and New Hampshire region.
+
+Click the links below for more info on our individual work! 

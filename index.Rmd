@@ -9,7 +9,6 @@ site: distill::distill_website
 ## Who We Are
 
 A welcoming group of queer printmakers supporting each other and our community! 
-We are currently a small group of artists who each work independently. We've teamed up to showcase our work together at [local pride festivals](events.html) and markets in the Western Mass/Southern Vermont and New Hampshire region.
 
 ## What We Make
 

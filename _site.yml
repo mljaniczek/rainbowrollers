@@ -5,6 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   right:
+    - text: "Artists"
+      href:  who.html
     - text: "Events"
       href: events.html
     - text: "Zines"
