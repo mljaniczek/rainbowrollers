@@ -1,0 +1,29 @@
+---
+title: "Events"
+image: "booth.jpg"
+output:
+  postcards::trestles
+---
+
+# Upcoming Events
+
+## [Queer Joy Fun Fair](https://www.queerjoycollaborative.org/funfair)
+
+**When**: June 8 2025, 3-6pm
+
+**Where**: Smith Vocational High School
+80 Locust St, Northampton, MA
+
+We will have a booth selling artist-made prints, letterpress cards, screen-printed shirts and bandanas! 
+
+**Rainbow Rollers**: Izzy Snyder & Margaret Janiczek
+
+
+# Past Events
+
+Hampshire Pride, Northampton, MA
+May 3, 2025
+Izzy Snyder, Margaret Janiczek, Delaney Dumm
+
+
+

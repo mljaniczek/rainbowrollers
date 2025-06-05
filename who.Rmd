@@ -1,0 +1,16 @@
+---
+title: "About Us"
+image: "group.jpg"
+links:
+  - label: Margaret Janiczek
+    url: "https://www.rootahdah.com"
+  - label: Izzy Snyder
+    url: "https://www.instagram.com/izzysnyder2001"
+  - label: Delaney Dumm
+    url: "https:www.delaneydumm.com"
+output:
+  postcards::jolla
+---
+ 
+## Who we are
+

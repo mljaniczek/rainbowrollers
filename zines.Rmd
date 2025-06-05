@@ -1,0 +1,23 @@
+---
+title: "Queer Joy Coloring Zine"
+image: "zine3.jpg"
+output:
+  postcards::trestles
+---
+ 
+## Queer Joy Coloring Zine: Volume 1
+
+We are excited to produce our first little coloring-book-zine! 
+
+Featuring art donated by 6 artists, with ALL funds raised from zine purchases going to the [AIDS project of Southern VT](https://www.aidsprojectsouthernvermont.org/). Zines will be available at our [upcoming events](events.html). 
+
+Artists: 
+
+* Ray Baehr - [cavetoonist.com](https://www.cavetoonist.com)  
+* Margaret Janiczek - [rootahdah.com](https://www.rootahdah.com)
+* EJ Jones
+* Sasha Luci - [Sasha's Treehouse](https://www.facebook.com/groups/822245428241761/about)
+* Izzy Snyder - [@izzysnyder2001](https://www.instagram.com/izzysnyder2001)  
+* Shea Witzo - [@sheawitzo](https://www.instagram.com/sheawitzo)
+
+

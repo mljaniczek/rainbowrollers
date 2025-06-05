@@ -1,0 +1,15 @@
+---
+title: "Rainbow Rollers"
+image: group.jpg
+output:
+  postcards::trestles
+---
+ 
+## Who We Are
+
+A welcoming group of queer printmakers supporting each other and our community! 
+We are currently a small group of artists who each work independently to design and print art by hand. We've teamed up to showcase our work at local pride festivals and markets in the Western Mass/Southern Vermont and New Hampshire region.
+
+## What We Make
+
+Our pieces are hand made using techniques like silk screen, copper plate etching (intaglio), letterpress, linocut, and more. Each artist in our group has their own style and preferred mediums. We range from making fine art prints to t-shirts designed and screenprinted by hand at First Proof Press (a community printmaking studio in Brattleboro, Vermont) or at our home studios! 

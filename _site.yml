@@ -1,0 +1,13 @@
+name: "."
+title: "Rainbow Rollers"
+description: |
+  Rainbow Rollers
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Events"
+      href: events.html
+    - text: "Zines"
+      href: zines.html
+output: distill::distill_article
+theme: updated.css
